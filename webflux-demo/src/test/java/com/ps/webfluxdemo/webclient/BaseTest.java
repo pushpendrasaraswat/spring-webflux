@@ -1,4 +1,4 @@
-package com.vinsguru.webfluxdemo.webclient;
+package com.ps.webfluxdemo.webclient;
 
 import org.springframework.boot.test.context.SpringBootTest;
 

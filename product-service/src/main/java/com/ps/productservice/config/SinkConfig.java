@@ -1,6 +1,6 @@
-package com.vinsguru.productservice.config;
+package com.ps.productservice.config;
 
-import com.vinsguru.productservice.dto.ProductDto;
+import com.ps.productservice.dto.ProductDto;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import reactor.core.publisher.Flux;

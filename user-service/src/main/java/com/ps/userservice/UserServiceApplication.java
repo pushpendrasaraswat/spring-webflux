@@ -1,4 +1,4 @@
-package com.vinsguru.userservice;
+package com.ps.userservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

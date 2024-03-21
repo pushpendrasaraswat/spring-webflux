@@ -1,7 +1,7 @@
-package com.vinsguru.userservice.controller;
+package com.ps.userservice.controller;
 
-import com.vinsguru.userservice.dto.UserDto;
-import com.vinsguru.userservice.service.UserService;
+import com.ps.userservice.dto.UserDto;
+import com.ps.userservice.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

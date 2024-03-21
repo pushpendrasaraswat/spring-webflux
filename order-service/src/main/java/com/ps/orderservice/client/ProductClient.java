@@ -1,6 +1,6 @@
-package com.vinsguru.orderservice.client;
+package com.ps.orderservice.client;
 
-import com.vinsguru.orderservice.dto.ProductDto;
+import com.ps.orderservice.dto.ProductDto;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;

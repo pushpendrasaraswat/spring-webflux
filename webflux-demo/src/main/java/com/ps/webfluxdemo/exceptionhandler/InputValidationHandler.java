@@ -1,7 +1,7 @@
-package com.vinsguru.webfluxdemo.exceptionhandler;
+package com.ps.webfluxdemo.exceptionhandler;
 
-import com.vinsguru.webfluxdemo.dto.InputFailedValidationResponse;
-import com.vinsguru.webfluxdemo.exception.InputValidationException;
+import com.ps.webfluxdemo.dto.InputFailedValidationResponse;
+import com.ps.webfluxdemo.exception.InputValidationException;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;

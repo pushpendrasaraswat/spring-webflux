@@ -1,8 +1,8 @@
-package com.vinsguru.orderservice.service;
+package com.ps.orderservice.service;
 
-import com.vinsguru.orderservice.dto.PurchaseOrderResponseDto;
-import com.vinsguru.orderservice.repository.PurchaseOrderRepository;
-import com.vinsguru.orderservice.util.EntityDtoUtil;
+import com.ps.orderservice.dto.PurchaseOrderResponseDto;
+import com.ps.orderservice.repository.PurchaseOrderRepository;
+import com.ps.orderservice.util.EntityDtoUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;

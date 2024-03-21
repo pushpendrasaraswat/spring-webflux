@@ -1,9 +1,9 @@
-package com.vinsguru.webfluxdemo.webtestclient;
+package com.ps.webfluxdemo.webtestclient;
 
-import com.vinsguru.webfluxdemo.controller.ReactiveMathValidationController;
-import com.vinsguru.webfluxdemo.dto.MultiplyRequestDto;
-import com.vinsguru.webfluxdemo.dto.Response;
-import com.vinsguru.webfluxdemo.service.ReactiveMathService;
+import com.ps.webfluxdemo.controller.ReactiveMathValidationController;
+import com.ps.webfluxdemo.dto.MultiplyRequestDto;
+import com.ps.webfluxdemo.dto.Response;
+import com.ps.webfluxdemo.service.ReactiveMathService;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 import org.springframework.beans.factory.annotation.Autowired;

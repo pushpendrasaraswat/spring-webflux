@@ -1,4 +1,4 @@
-package com.vinsguru.webfluxdemo.controller;
+package com.ps.webfluxdemo.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

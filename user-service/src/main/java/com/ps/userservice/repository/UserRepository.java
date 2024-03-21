@@ -1,6 +1,6 @@
-package com.vinsguru.userservice.repository;
+package com.ps.userservice.repository;
 
-import com.vinsguru.userservice.entity.User;
+import com.ps.userservice.entity.User;
 import org.springframework.data.r2dbc.repository.Modifying;
 import org.springframework.data.r2dbc.repository.Query;
 import org.springframework.data.repository.reactive.ReactiveCrudRepository;

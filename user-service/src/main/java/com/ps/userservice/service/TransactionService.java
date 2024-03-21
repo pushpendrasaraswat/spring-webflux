@@ -1,12 +1,12 @@
-package com.vinsguru.userservice.service;
+package com.ps.userservice.service;
 
-import com.vinsguru.userservice.dto.TransactionRequestDto;
-import com.vinsguru.userservice.dto.TransactionResponseDto;
-import com.vinsguru.userservice.dto.TransactionStatus;
-import com.vinsguru.userservice.entity.UserTransaction;
-import com.vinsguru.userservice.repository.UserRepository;
-import com.vinsguru.userservice.repository.UserTransactionRepository;
-import com.vinsguru.userservice.util.EntityDtoUtil;
+import com.ps.userservice.dto.TransactionRequestDto;
+import com.ps.userservice.dto.TransactionResponseDto;
+import com.ps.userservice.dto.TransactionStatus;
+import com.ps.userservice.entity.UserTransaction;
+import com.ps.userservice.repository.UserRepository;
+import com.ps.userservice.repository.UserTransactionRepository;
+import com.ps.userservice.util.EntityDtoUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;

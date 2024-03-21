@@ -1,8 +1,8 @@
-package com.vinsguru.webfluxdemo.controller;
+package com.ps.webfluxdemo.controller;
 
-import com.vinsguru.webfluxdemo.dto.MultiplyRequestDto;
-import com.vinsguru.webfluxdemo.dto.Response;
-import com.vinsguru.webfluxdemo.service.ReactiveMathService;
+import com.ps.webfluxdemo.dto.MultiplyRequestDto;
+import com.ps.webfluxdemo.dto.Response;
+import com.ps.webfluxdemo.service.ReactiveMathService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;

@@ -1,9 +1,9 @@
-package com.vinsguru.orderservice.controller;
+package com.ps.orderservice.controller;
 
-import com.vinsguru.orderservice.dto.PurchaseOrderRequestDto;
-import com.vinsguru.orderservice.dto.PurchaseOrderResponseDto;
-import com.vinsguru.orderservice.service.OrderFulfillmentService;
-import com.vinsguru.orderservice.service.OrderQueryService;
+import com.ps.orderservice.dto.PurchaseOrderRequestDto;
+import com.ps.orderservice.dto.PurchaseOrderResponseDto;
+import com.ps.orderservice.service.OrderFulfillmentService;
+import com.ps.orderservice.service.OrderQueryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

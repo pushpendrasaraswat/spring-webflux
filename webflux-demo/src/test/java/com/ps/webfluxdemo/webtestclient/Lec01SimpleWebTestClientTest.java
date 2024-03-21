@@ -1,6 +1,6 @@
-package com.vinsguru.webfluxdemo.webtestclient;
+package com.ps.webfluxdemo.webtestclient;
 
-import com.vinsguru.webfluxdemo.dto.Response;
+import com.ps.webfluxdemo.dto.Response;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

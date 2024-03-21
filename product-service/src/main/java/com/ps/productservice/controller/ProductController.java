@@ -1,7 +1,7 @@
-package com.vinsguru.productservice.controller;
+package com.ps.productservice.controller;
 
-import com.vinsguru.productservice.dto.ProductDto;
-import com.vinsguru.productservice.service.ProductService;
+import com.ps.productservice.dto.ProductDto;
+import com.ps.productservice.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Range;
 import org.springframework.http.ResponseEntity;

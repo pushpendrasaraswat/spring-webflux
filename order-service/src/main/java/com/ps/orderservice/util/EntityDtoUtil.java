@@ -1,7 +1,7 @@
-package com.vinsguru.orderservice.util;
+package com.ps.orderservice.util;
 
-import com.vinsguru.orderservice.dto.*;
-import com.vinsguru.orderservice.entity.PurchaseOrder;
+import com.ps.orderservice.dto.*;
+import com.ps.orderservice.entity.PurchaseOrder;
 import org.springframework.beans.BeanUtils;
 
 public class EntityDtoUtil {

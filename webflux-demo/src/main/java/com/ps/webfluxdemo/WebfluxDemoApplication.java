@@ -1,4 +1,4 @@
-package com.vinsguru.webfluxdemo;
+package com.ps.webfluxdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

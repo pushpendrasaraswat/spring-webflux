@@ -1,11 +1,11 @@
-package com.vinsguru.userservice.util;
+package com.ps.userservice.util;
 
-import com.vinsguru.userservice.dto.TransactionRequestDto;
-import com.vinsguru.userservice.dto.TransactionResponseDto;
-import com.vinsguru.userservice.dto.TransactionStatus;
-import com.vinsguru.userservice.dto.UserDto;
-import com.vinsguru.userservice.entity.User;
-import com.vinsguru.userservice.entity.UserTransaction;
+import com.ps.userservice.dto.TransactionRequestDto;
+import com.ps.userservice.dto.TransactionResponseDto;
+import com.ps.userservice.dto.TransactionStatus;
+import com.ps.userservice.dto.UserDto;
+import com.ps.userservice.entity.User;
+import com.ps.userservice.entity.UserTransaction;
 import org.springframework.beans.BeanUtils;
 
 import java.time.LocalDateTime;

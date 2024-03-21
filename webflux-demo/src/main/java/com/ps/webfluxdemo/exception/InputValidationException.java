@@ -1,4 +1,4 @@
-package com.vinsguru.webfluxdemo.exception;
+package com.ps.webfluxdemo.exception;
 
 public class InputValidationException extends RuntimeException{
 

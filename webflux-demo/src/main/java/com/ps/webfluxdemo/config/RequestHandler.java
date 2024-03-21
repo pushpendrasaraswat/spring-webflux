@@ -1,10 +1,10 @@
-package com.vinsguru.webfluxdemo.config;
+package com.ps.webfluxdemo.config;
 
-import com.vinsguru.webfluxdemo.dto.InputFailedValidationResponse;
-import com.vinsguru.webfluxdemo.dto.MultiplyRequestDto;
-import com.vinsguru.webfluxdemo.dto.Response;
-import com.vinsguru.webfluxdemo.exception.InputValidationException;
-import com.vinsguru.webfluxdemo.service.ReactiveMathService;
+import com.ps.webfluxdemo.dto.InputFailedValidationResponse;
+import com.ps.webfluxdemo.dto.MultiplyRequestDto;
+import com.ps.webfluxdemo.dto.Response;
+import com.ps.webfluxdemo.exception.InputValidationException;
+import com.ps.webfluxdemo.service.ReactiveMathService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Service;

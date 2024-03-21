@@ -1,4 +1,4 @@
-package com.vinsguru.webfluxdemo.dto;
+package com.ps.webfluxdemo.dto;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

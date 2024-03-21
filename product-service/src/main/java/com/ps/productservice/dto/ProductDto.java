@@ -1,4 +1,4 @@
-package com.vinsguru.productservice.dto;
+package com.ps.productservice.dto;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

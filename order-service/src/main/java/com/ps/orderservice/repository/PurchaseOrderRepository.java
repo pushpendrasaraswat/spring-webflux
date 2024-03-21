@@ -1,6 +1,6 @@
-package com.vinsguru.orderservice.repository;
+package com.ps.orderservice.repository;
 
-import com.vinsguru.orderservice.entity.PurchaseOrder;
+import com.ps.orderservice.entity.PurchaseOrder;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

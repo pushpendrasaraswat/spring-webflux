@@ -1,12 +1,12 @@
-package com.vinsguru.orderservice;
+package com.ps.orderservice;
 
-import com.vinsguru.orderservice.client.ProductClient;
-import com.vinsguru.orderservice.client.UserClient;
-import com.vinsguru.orderservice.dto.ProductDto;
-import com.vinsguru.orderservice.dto.PurchaseOrderRequestDto;
-import com.vinsguru.orderservice.dto.PurchaseOrderResponseDto;
-import com.vinsguru.orderservice.dto.UserDto;
-import com.vinsguru.orderservice.service.OrderFulfillmentService;
+import com.ps.orderservice.client.ProductClient;
+import com.ps.orderservice.client.UserClient;
+import com.ps.orderservice.dto.ProductDto;
+import com.ps.orderservice.dto.PurchaseOrderRequestDto;
+import com.ps.orderservice.dto.PurchaseOrderResponseDto;
+import com.ps.orderservice.dto.UserDto;
+import com.ps.orderservice.service.OrderFulfillmentService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

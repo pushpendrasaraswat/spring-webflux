@@ -1,4 +1,4 @@
-package com.vinsguru.userservice.service;
+package com.ps.userservice.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

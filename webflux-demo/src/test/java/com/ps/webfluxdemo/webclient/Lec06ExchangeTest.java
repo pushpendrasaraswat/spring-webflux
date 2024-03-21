@@ -1,7 +1,7 @@
-package com.vinsguru.webfluxdemo.webclient;
+package com.ps.webfluxdemo.webclient;
 
-import com.vinsguru.webfluxdemo.dto.InputFailedValidationResponse;
-import com.vinsguru.webfluxdemo.dto.Response;
+import com.ps.webfluxdemo.dto.InputFailedValidationResponse;
+import com.ps.webfluxdemo.dto.Response;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.reactive.function.client.ClientResponse;

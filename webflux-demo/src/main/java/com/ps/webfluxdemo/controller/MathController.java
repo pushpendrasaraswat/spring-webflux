@@ -1,7 +1,7 @@
-package com.vinsguru.webfluxdemo.controller;
+package com.ps.webfluxdemo.controller;
 
-import com.vinsguru.webfluxdemo.dto.Response;
-import com.vinsguru.webfluxdemo.service.MathService;
+import com.ps.webfluxdemo.dto.Response;
+import com.ps.webfluxdemo.service.MathService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

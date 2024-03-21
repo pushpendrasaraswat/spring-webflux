@@ -1,9 +1,9 @@
-package com.vinsguru.webfluxdemo.webtestclient;
+package com.ps.webfluxdemo.webtestclient;
 
-import com.vinsguru.webfluxdemo.controller.ParamsController;
-import com.vinsguru.webfluxdemo.controller.ReactiveMathController;
-import com.vinsguru.webfluxdemo.dto.Response;
-import com.vinsguru.webfluxdemo.service.ReactiveMathService;
+import com.ps.webfluxdemo.controller.ParamsController;
+import com.ps.webfluxdemo.controller.ReactiveMathController;
+import com.ps.webfluxdemo.dto.Response;
+import com.ps.webfluxdemo.service.ReactiveMathService;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;

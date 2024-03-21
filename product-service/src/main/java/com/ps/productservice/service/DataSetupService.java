@@ -1,6 +1,6 @@
-package com.vinsguru.productservice.service;
+package com.ps.productservice.service;
 
-import com.vinsguru.productservice.dto.ProductDto;
+import com.ps.productservice.dto.ProductDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Service;

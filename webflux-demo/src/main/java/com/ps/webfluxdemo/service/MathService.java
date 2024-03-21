@@ -1,6 +1,6 @@
-package com.vinsguru.webfluxdemo.service;
+package com.ps.webfluxdemo.service;
 
-import com.vinsguru.webfluxdemo.dto.Response;
+import com.ps.webfluxdemo.dto.Response;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

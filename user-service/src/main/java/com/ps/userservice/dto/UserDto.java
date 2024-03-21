@@ -1,4 +1,4 @@
-package com.vinsguru.userservice.dto;
+package com.ps.userservice.dto;
 
 import lombok.Data;
 import lombok.ToString;

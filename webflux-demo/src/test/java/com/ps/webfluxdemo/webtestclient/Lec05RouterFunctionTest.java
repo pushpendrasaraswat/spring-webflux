@@ -1,8 +1,8 @@
-package com.vinsguru.webfluxdemo.webtestclient;
+package com.ps.webfluxdemo.webtestclient;
 
-import com.vinsguru.webfluxdemo.config.RequestHandler;
-import com.vinsguru.webfluxdemo.config.RouterConfig;
-import com.vinsguru.webfluxdemo.dto.Response;
+import com.ps.webfluxdemo.config.RequestHandler;
+import com.ps.webfluxdemo.config.RouterConfig;
+import com.ps.webfluxdemo.dto.Response;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;

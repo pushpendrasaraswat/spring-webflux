@@ -1,4 +1,4 @@
-package com.vinsguru.orderservice.dto;
+package com.ps.orderservice.dto;
 
 public enum TransactionStatus {
     APPROVED,

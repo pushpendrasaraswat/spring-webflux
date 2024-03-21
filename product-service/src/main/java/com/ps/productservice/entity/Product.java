@@ -1,4 +1,4 @@
-package com.vinsguru.productservice.entity;
+package com.ps.productservice.entity;
 
 import lombok.Data;
 import lombok.ToString;

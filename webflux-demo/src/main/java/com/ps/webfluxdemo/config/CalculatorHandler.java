@@ -1,4 +1,4 @@
-package com.vinsguru.webfluxdemo.config;
+package com.ps.webfluxdemo.config;
 
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.server.ServerRequest;

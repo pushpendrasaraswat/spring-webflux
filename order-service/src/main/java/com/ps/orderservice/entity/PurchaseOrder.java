@@ -1,6 +1,6 @@
-package com.vinsguru.orderservice.entity;
+package com.ps.orderservice.entity;
 
-import com.vinsguru.orderservice.dto.OrderStatus;
+import com.ps.orderservice.dto.OrderStatus;
 import lombok.Data;
 import lombok.ToString;
 

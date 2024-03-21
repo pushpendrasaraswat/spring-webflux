@@ -1,8 +1,8 @@
-package com.vinsguru.userservice.service;
+package com.ps.userservice.service;
 
-import com.vinsguru.userservice.dto.UserDto;
-import com.vinsguru.userservice.repository.UserRepository;
-import com.vinsguru.userservice.util.EntityDtoUtil;
+import com.ps.userservice.dto.UserDto;
+import com.ps.userservice.repository.UserRepository;
+import com.ps.userservice.util.EntityDtoUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;

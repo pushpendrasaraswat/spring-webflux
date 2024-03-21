@@ -1,8 +1,8 @@
-package com.vinsguru.productservice.service;
+package com.ps.productservice.service;
 
-import com.vinsguru.productservice.dto.ProductDto;
-import com.vinsguru.productservice.repository.ProductRepository;
-import com.vinsguru.productservice.util.EntityDtoUtil;
+import com.ps.productservice.dto.ProductDto;
+import com.ps.productservice.repository.ProductRepository;
+import com.ps.productservice.util.EntityDtoUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Range;
 import org.springframework.stereotype.Service;

@@ -1,6 +1,6 @@
-package com.vinsguru.productservice.repository;
+package com.ps.productservice.repository;
 
-import com.vinsguru.productservice.entity.Product;
+import com.ps.productservice.entity.Product;
 import org.springframework.data.domain.Range;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 import org.springframework.stereotype.Repository;

@@ -1,9 +1,9 @@
-package com.vinsguru.userservice.controller;
+package com.ps.userservice.controller;
 
-import com.vinsguru.userservice.dto.TransactionRequestDto;
-import com.vinsguru.userservice.dto.TransactionResponseDto;
-import com.vinsguru.userservice.entity.UserTransaction;
-import com.vinsguru.userservice.service.TransactionService;
+import com.ps.userservice.dto.TransactionRequestDto;
+import com.ps.userservice.dto.TransactionResponseDto;
+import com.ps.userservice.entity.UserTransaction;
+import com.ps.userservice.service.TransactionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Flux;
